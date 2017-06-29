@@ -1,0 +1,6 @@
+c:\users\pops\documents\visual studio 2017\Projects\ac_control\ac_control\bin\Debug\netcoreapp1.1\ac_control.deps.json
+c:\users\pops\documents\visual studio 2017\Projects\ac_control\ac_control\bin\Debug\netcoreapp1.1\ac_control.runtimeconfig.json
+c:\users\pops\documents\visual studio 2017\Projects\ac_control\ac_control\bin\Debug\netcoreapp1.1\ac_control.runtimeconfig.dev.json
+c:\users\pops\documents\visual studio 2017\Projects\ac_control\ac_control\bin\Debug\netcoreapp1.1\ac_control.dll
+c:\users\pops\documents\visual studio 2017\Projects\ac_control\ac_control\obj\Debug\netcoreapp1.1\ac_control.csprojResolveAssemblyReference.cache
+c:\users\pops\documents\visual studio 2017\Projects\ac_control\ac_control\obj\Debug\netcoreapp1.1\ac_control.AssemblyInfo.cs
